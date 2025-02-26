@@ -16,7 +16,7 @@ This project is a chatbot built using **Streamlit**, **LangChain**, and **FAISS*
 ### 1 Clone the Repository
 ```sh
 git clone https://github.com/sOnU1002/chat-bot-.git
-cd your-repo
+
 ```
 ### 2 Install Dependencies
 ```sh
