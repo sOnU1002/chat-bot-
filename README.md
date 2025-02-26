@@ -1,4 +1,4 @@
-# Streamlit Chatbot with LangChain and FAISS
+# Streamlit Chatbot 
 
 This project is a chatbot built using **Streamlit**, **LangChain**, and **FAISS**. It integrates **Groq** for chat models and **Google Generative AI** for embeddings. The chatbot is designed to retrieve relevant responses from a vector database and answer user queries efficiently.
 
@@ -15,7 +15,7 @@ This project is a chatbot built using **Streamlit**, **LangChain**, and **FAISS*
 
 ### 1 Clone the Repository
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/sOnU1002/chat-bot-.git
 cd your-repo
 ```
 ### 2 Install Dependencies
